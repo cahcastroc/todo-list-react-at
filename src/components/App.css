@@ -1,0 +1,74 @@
+h1 {
+  padding: 50px 20px;
+}
+
+.btn {
+  margin-bottom: 20px;
+  border: none;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 10px;
+  border-color: #23455c;
+  color: #fff;
+  box-shadow: 0 0 40px 40px #2c5875 inset, 0 0 0 0 #3498db;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+}
+
+.App {
+  margin: 50px;
+  min-height: 500px;
+  box-shadow: 0 0 45px rgb(12, 71, 108);
+  text-align: center;
+  border-radius: 50px;
+}
+
+.border {
+  border: 1px solid red;
+}
+
+.complete {
+  text-decoration: line-through;
+  color: #0d0d76;
+}
+
+.listTasks {
+  list-style: none;
+}
+
+.date,
+.task {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+}
+
+.task {
+  font-weight: bold;
+}
+
+.input {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  min-width: 300px;
+  text-align: center;
+  height: 50px;
+  background-color: transparent;
+}
+
+#icon {
+  margin-right: 20px;
+}
+
+.checkbox {
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+}
+
+.checkbox-input {
+  font-size: 20px;
+  margin-left: 5px;
+  font-weight: 500;
+}
