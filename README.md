@@ -1,7 +1,8 @@
 # To do List - AT React
 
 
-At de entrega final para a disciplina de Frameworks Front-end e conexão com Back-end do INFNET 
+Assesment Vue.JS da disciplina Frameworks Front-end e conexão com Back-end apresentada ao curso de Análise e Desenvolvimento de Sistemas, do Instituto INFNET.
+
 
 #### Bloco finalizado em abril/2022
 
